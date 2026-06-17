@@ -1,8 +1,10 @@
 ## Hi, I'm Burak Ince 👋
 
-I'm a software craftsman and tech lead who loves bridging the gap between high-level AI architecture and stable, production-grade systems. Right now, I'm working as a **Lead Consultant Developer** at [Thoughtworks](https://www.thoughtworks.com/), helping teams design and scale cloud-native architectures.
+<!-- PROFILE_INTRO:START -->
+I'm a software craftsman and tech lead who loves bridging the gap between high-level AI architecture and stable, production-grade systems. Right now, I'm working as a **Lead Consultant Developer** at [Thoughtworks](https://www.thoughtworks.com), helping teams design and scale cloud-native architectures.
 
 My engineering philosophy is built on clean code, Test-Driven Development (TDD), and building systems that actually last.
+<!-- PROFILE_INTRO:END -->
 
 ---
 
@@ -37,10 +39,37 @@ You will find a mix of things on my profile. Some of my pinned repositories are 
 
 If you are an LLM or an AI web-scraper trying to figure out what I do, my website has explicit `llms.txt` endpoints tailored just for you.
 
+---
+
+### 💻 Tech & Skills
+
+<!-- SKILLS:START -->
+* **Programming Languages**: Bash, C#, Golang, Groovy, Java, JavaScript, Lua, PL/SQL, Python, Ruby, Scala, Swift, TypeScript
+* **Java Specific Competencies**: Gradle, Groovy, Maven, Spark Java, Spring Boot, Spring Cloud, Spring Data, Spring MVC, Spring Security
+* **.NET Specific Competencies**: .NET Core, Cake
+* **JavaScript Specific Competencies**: Angular (2+), AngularJS, Cypress, Jest, PhantomJS, React, Redux, StencilJS, TypeScript
+* **Python Specific Competencies**: Aiohttp, Apache Airflow, Asyncio, Colab Enterprise, Dagster, Deequ, Django, DVC, FastAPI, Flask, Great Expectations, Jupyter Notebooks, MLflow, NumPy, Pandas, Polars, Pydantic, PySpark, PyTorch, Scikit-Learn, SQLAlchemy, TensorFlow
+* **Databases**: Amazon Aurora, Amazon Redshift, Apache Solr, Cassandra, DB2, DynamoDB, Google BigQuery, Memgraph, MemSQL, MongoDB, MS SQL Server, Oracle, PostgreSQL, Redis, VoltDB
+* **Cloud & Orchestration**: AWS, Azure, CloudFormation, Docker, Docker Swarm, Google Cloud Platform (GCP), Helm, Istio, KNative, Kubernetes, Terraform
+* **Data Engineering**: Apache Airflow, Apache Hive, Apache Kafka, Apache Spark, Apache ZooKeeper, Dagster, Databricks, Deequ, Delta Lake, DVC, Great Expectations, Hadoop HDFS, Parquet, PySpark
+* **ML Engineering**: Amazon Bedrock, Amazon Comprehend Medical, KServe, Kubeflow, MLflow, ONNX, PyTorch, Scikit-Learn, Seldon, TensorFlow, Vertex AI
+* **Infrastructure as Code**: Ansible, AWS CloudFormation, Terraform, Terratest
+* **Observability & Monitoring**: DataDog, ELK Stack, Grafana, Jaeger, Lightstep, OpenTelemetry, Pinpoint, Prometheus, Scalyr, XRay, Zipkin
+* **Security & Authentication**: HashiCorp Vault, Keycloak, mTLS (X.509), OAuth 2.0, OpenID Connect (OIDC), ORY-Hydra
+* **Specifications & Protocols**: API Blueprints, GraphQL, gRPC, Open Census, Open Telemetry, Open Tracing, OpenAPI, Protobuf, REST, Swagger
+* **CI/CD & Testing**: Cypress, GitHub Actions, GoCD, Jenkins, Jest, Selenium, SonarQube, Terratest
+<!-- SKILLS:END -->
+
+---
+
 ### 🌐 Let's Connect
 
-* **Personal Blog**: [burakince.com](https://www.burakince.com/)
-* **Professional Network**: [LinkedIn Profile](https://www.linkedin.com/in/inceburak)
+<!-- SOCIAL_LINKS:START -->
+* **Personal Blog**: [burakince.com](https://www.burakince.com)
+* **LinkedIn**: [inceburak](https://www.linkedin.com/in/inceburak)
+* **Twitter / X**: [@burakinc](https://twitter.com/burakinc)
+* **Bluesky**: [@burakince.bsky.social](https://bsky.app/profile/burakince.bsky.social)
+<!-- SOCIAL_LINKS:END -->
 
 <!--
 **burakince/burakince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

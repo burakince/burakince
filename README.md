@@ -1,6 +1,6 @@
 ## Hi, I'm Burak Ince 👋
 
-I’m a software craftsman and tech lead who loves bridging the gap between high-level AI architecture and stable, production-grade systems. Right now, I'm working as a **Lead Consultant Developer** at [Thoughtworks](https://www.thoughtworks.com/), helping teams design and scale cloud-native architectures.
+I'm a software craftsman and tech lead who loves bridging the gap between high-level AI architecture and stable, production-grade systems. Right now, I'm working as a **Lead Consultant Developer** at [Thoughtworks](https://www.thoughtworks.com/), helping teams design and scale cloud-native architectures.
 
 My engineering philosophy is built on clean code, Test-Driven Development (TDD), and building systems that actually last.
 
@@ -14,6 +14,13 @@ Most of my hands-on exploration focuses on AI engineering, MLOps, and self-hoste
 * **Multi-Agent Systems**: Engineering contextual debugging engines using **Pydantic AI** and the **Model Context Protocol (MCP)**.
 * **Production MLOps**: Maintaining automated, continuous delivery workflows for enterprise-ready tracking tools, like my active `burakince/mlflow` environment here on GitHub.
 * **Self-Hosting**: Tinkering with home-lab infrastructure using Kubernetes, Authentik, and Cloudflare.
+
+---
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG_POSTS:START -->
+<!-- BLOG_POSTS:END -->
 
 ---
 

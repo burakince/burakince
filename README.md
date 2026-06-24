@@ -41,7 +41,18 @@ If you are an LLM or an AI web-scraper trying to figure out what I do, my websit
 
 ---
 
-### 💻 Tech & Skills
+### 🌐 Let's Connect
+
+<!-- SOCIAL_LINKS:START -->
+* **Personal Blog**: [burakince.com](https://www.burakince.com)
+* **LinkedIn**: [inceburak](https://www.linkedin.com/in/inceburak)
+* **Twitter / X**: [@burakinc](https://twitter.com/burakinc)
+* **Bluesky**: [@burakince.bsky.social](https://bsky.app/profile/burakince.bsky.social)
+<!-- SOCIAL_LINKS:END -->
+
+---
+
+<details><summary>💻 Tech & Skills</summary>
 
 <!-- SKILLS:START -->
 * **Programming Languages**: Bash, C#, Golang, Groovy, Java, JavaScript, Lua, PL/SQL, Python, Ruby, Scala, Swift, TypeScript
@@ -60,28 +71,4 @@ If you are an LLM or an AI web-scraper trying to figure out what I do, my websit
 * **CI/CD & Testing**: Cypress, GitHub Actions, GoCD, Jenkins, Jest, Selenium, SonarQube, Terratest
 <!-- SKILLS:END -->
 
----
-
-### 🌐 Let's Connect
-
-<!-- SOCIAL_LINKS:START -->
-* **Personal Blog**: [burakince.com](https://www.burakince.com)
-* **LinkedIn**: [inceburak](https://www.linkedin.com/in/inceburak)
-* **Twitter / X**: [@burakinc](https://twitter.com/burakinc)
-* **Bluesky**: [@burakince.bsky.social](https://bsky.app/profile/burakince.bsky.social)
-<!-- SOCIAL_LINKS:END -->
-
-<!--
-**burakince/burakince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>

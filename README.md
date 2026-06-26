@@ -22,11 +22,11 @@ Most of my hands-on exploration focuses on AI engineering, MLOps, and self-hoste
 ### 📝 Latest Blog Posts
 
 <!-- BLOG_POSTS:START -->
+* **[I Built a Local AI Commit Message Generator with Go and Ollama](https://www.burakince.com/post/local-ai-git-commit-message-generator-ollama/)** — I built git-aimit: a Go CLI that generates Conventional Commits messages from your staged diff using a local Ollama model. No cloud endpoint, no API key.
 * **[I Turned 34 Tech Radar PDFs Into a GraphRAG System](https://www.burakince.com/post/i-turned-34-tech-radar-pdfs-into-a-graphrag-system/)** — I built a GraphRAG system over 34 Thoughtworks Tech Radar PDFs using Neo4j, Qdrant, and LangChain. The knowledge graph was the easy part. PDF parsing was not.
 * **[I Built a Multi-Agent RAG Debugging Second Brain That Never Forgets](https://www.burakince.com/post/multi-agent-rag-debugging-second-brain/)** — Debugging knowledge evaporates after incidents. I built a production multi-agent RAG to fix that: BM25 hybrid search, three-layer persistent memory, an external critic loop, and MCP integration for Claude Desktop. Full implementation breakdown.
 * **[Why Are You Still Paying for Email? Here's My Almost-Free Setup](https://www.burakince.com/post/why-are-you-still-paying-for-email-almost-free-setup/)** — How to get a professional me@yourdomain.com address without paying for Google Workspace. Cloudflare Email Routing for inbound, AWS SES for outbound, Gmail as the client. Total cost: basically just your domain.
 * **[Replacing Auth0 with self-hosted Authentik on Kubernetes and Cloudflare](https://www.burakince.com/post/replacing-auth0-with-self-hosted-authentik-on-kubernetes/)** — Auth0 deleted my free-tier tenant without warning after 150 days of inactivity. Here's how I replaced it with self-hosted Authentik on my homelab Kubernetes cluster, wired up through Cloudflare Access with group-based policies.
-* **[MLOps: A Practical Guide for Software and DevOps Engineers](https://www.burakince.com/post/mlops-a-practical-guide-for-software-and-devops-engineers/)** — MLOps brings software engineering discipline to machine learning. Learn what it is, why it matters, and how to apply CI/CD, model versioning, monitoring, and more to ship reliable ML systems.
 
 > _Updated automatically from [burakince.com](https://www.burakince.com)_
 <!-- BLOG_POSTS:END -->
